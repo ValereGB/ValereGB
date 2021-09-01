@@ -1,4 +1,4 @@
 - 👋 Bonjour, bienvenue sur mon git ! 
 - 👀 Je m'appelle Galais-Brousse Valère et je suis un jeune developppeur ! 
-- 🌱 Actuellement, je travail et je forme sur la technologie JAVA !
+- 🌱 Actuellement, je travail et je me forme sur la technologie JAVA !
 - 📫 N'hésitez pas à me contacter si vous avez la moindre question : LinkedIn Valere Galais-Brousse !
