@@ -1,10 +1,4 @@
-- 👋 Hi, I’m @ValereGB
-- 👀 I’m interested in Dev
-- 🌱 I’m currently learning Java
-- 💞️ I’m looking to collaborate on Work
-- 📫 How to reach me : LinkedIn Valere Galais-Brousse
-
-<!---
-ValereGB/ValereGB is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👋 Bonjour, bienvenue sur mon git ! 
+- 👀 Je m'appelle Galais-Brousse Valère et je suis un jeune developppeur ! 
+- 🌱 Actuellement, je travail et je forme sur la technologie JAVA !
+- 📫 N'hésitez pas à me contacter si vous avez la moindre question : LinkedIn Valere Galais-Brousse !
